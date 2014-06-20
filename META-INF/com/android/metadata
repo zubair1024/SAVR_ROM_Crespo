@@ -1,0 +1,3 @@
+post-build=google/soju/crespo:4.1.2/JZO54K/485486:user/release-keys
+post-timestamp=1399787762
+pre-device=crespo
