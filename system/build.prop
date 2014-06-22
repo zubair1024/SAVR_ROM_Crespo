@@ -86,3 +86,10 @@ dalvik.vm.lockprof.threshold=500
 dalvik.vm.dexopt-flags=m=y
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
+
+#
+# For Power Saving
+#
+pm.sleep_mode=1
+ro.ril.disable.power.collapse=1
+wifi.supplicant_scan_interval=180
