@@ -7,5 +7,7 @@ This is a Custom ROM developed for NEXUS S (CRESPO) devices. It is a deodexed, p
 
 Builds from these repository are currently uploaded on FireDrive and download by XDA members on the ROM's XDA thread.
 
+![alt tag](http://cdn1.share.slickpic.com/u/zubair1024/Album201406221918/org/GoogleNexusS1/web.jpg)
+
 
 
