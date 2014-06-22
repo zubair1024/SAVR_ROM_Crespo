@@ -93,3 +93,17 @@ dalvik.vm.stack-trace-file=/data/anr/traces.txt
 pm.sleep_mode=1
 ro.ril.disable.power.collapse=1
 wifi.supplicant_scan_interval=180
+
+
+#
+# Network Performance Tweaks
+#
+net.tcp.buffersize.default=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.edge=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.evdo_b=6144,87380,262144,6144,16384,262144
+net.tcp.buffersize.gprs=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.hsdpa=6144,87380,262144,6144,16384,262144
+net.tcp.buffersize.hspa=6144,87380,262144,6144,16384,262144
+net.tcp.buffersize.lte=6144,87380,262144,6144,16384,262144
+net.tcp.buffersize.umts=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.wifi=4096,87380,256960,4096,16384,256960
