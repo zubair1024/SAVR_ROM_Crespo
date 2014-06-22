@@ -5,7 +5,7 @@ A custom ROM is one that has undergone any modification from being a pure distri
 
 This is a Custom ROM developed for NEXUS S (CRESPO) devices. It is a deodexed, pre-rooted and de-bloated ROM with various tweaks for battery performance, network usuage, CPU performance and many more applied to have a true speedy experience.
 
-Builds from these repository are currently uploaded on FireDrive and used by XDA members.
+Builds from these repository are currently uploaded on FireDrive and download by XDA members on the ROM's XDA thread.
 
 
 
