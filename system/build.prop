@@ -90,6 +90,8 @@ dalvik.vm.stack-trace-file=/data/anr/traces.txt
 #
 #Z's SAVR ROM TWEAKS
 #
+debug.sf.hw=1
+mot.proximity.delay=25
 net.tcp.buffersize.default=4096,87380,256960,4096,16384,256960
 net.tcp.buffersize.edge=4096,87380,256960,4096,16384,256960
 net.tcp.buffersize.evdo_b=6144,87380,262144,6144,16384,262144
@@ -99,9 +101,25 @@ net.tcp.buffersize.hspa=6144,87380,262144,6144,16384,262144
 net.tcp.buffersize.lte=6144,87380,262144,6144,16384,262144
 net.tcp.buffersize.umts=4096,87380,256960,4096,16384,256960
 net.tcp.buffersize.wifi=4096,87380,256960,4096,16384,256960
+persist.adb.notify=0
 persist.sys.purgeable_assets=1
 pm.sleep_mode=1
+ro.camera.sound.forced=0
+ro.config.hw_new_wifitopdp=1
+ro.config.nocheckin=1
+ro.HOME_APP_ADJ=1
+ro.kernel.android.checkjni=0
+ro.lge.proximity.delay=25
+ro.media.dec.aud.flac.enabled=1
+ro.media.dec.aud.wma.enabled=1
+ro.media.dec.jpeg.memcap=8000000
+ro.media.dec.vid.avi.enabled=1
+ro.media.dec.vid.wmv.enabled=1
+ro.media.enc.hprof.vid.bps=8000000
 ro.media.enc.jpeg.quality=100
 ro.ril.disable.power.collapse=1
+ro.ril.enable.amr.wideband=1
+ro.telephony.call_ring.delay=800
 wifi.supplicant_scan_interval=180
+windowsmgr.support_rotation_270=true
 
